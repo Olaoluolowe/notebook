@@ -35,6 +35,8 @@ INSTALLED_APPS = [
     #My Application
     'note_logs',
     'users',
+    # Third party apps.
+    'bootstrap4',
     
     #Django default app
     'django.contrib.admin',
